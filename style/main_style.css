@@ -76,3 +76,31 @@ select{
     background-repeat: no-repeat;
     background-position: right center;
 }
+
+.picture{
+    width: 160px
+    
+}
+
+footer{
+    background-color: #202121;
+    padding: 40px;
+    text-align: center;
+}
+
+.description{
+    color: white;
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 40px;
+    text-align: left;
+}
+
+.description p, .description h3{
+    margin-bottom: 20px;
+}
+
+.description h3{
+    font-size: 20px;
+    font-weight: bold;
+}
